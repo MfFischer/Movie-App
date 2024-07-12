@@ -1,0 +1,33 @@
+title,year,rating,poster,imdb_id
+Titanic,1997,7.9,https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg,tt0120338
+3 Idiots,2009,8.4,https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg,tt1187043
+Tears of the Sun,2003,6.6,https://m.media-amazon.com/images/M/MV5BMmI3YjQ4NjctZTk0Zi00ZDFhLTgyZjAtYWRjZTJjMjMwNjM2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg,tt0314353
+The Dark Knight,2008,9.0,https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg,tt0468569
+Blood Diamond,2006,8.0,https://m.media-amazon.com/images/M/MV5BZDMxOGZhNWYtMzRlYy00Mzk5LWJjMjEtNmQ4NDU4M2QxM2UzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg,tt0450259
+Schindler's List,1993,9.0,https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg,tt0108052
+Life Is Beautiful,1997,8.6,https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg,tt0118799
+The Pursuit of Happyness,2006,8.0,https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_SX300.jpg,tt0454921
+Untouchable,2019,6.7,https://m.media-amazon.com/images/M/MV5BNmRlYWM3NmEtOTNkYy00OTk5LWFkNTktZDBjMzJjMzI1MWQ0XkEyXkFqcGdeQXVyNTEyNjg4MzI@._V1_SX300.jpg,tt9358228
+A Beautiful Mind,2001,8.2,https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg,tt0268978
+Hachi: A Dog's Tale,2009,8.1,https://m.media-amazon.com/images/M/MV5BYmQzYjgyYzEtOTVhZC00MDRkLWJjNjItYzU3N2RiMTExZjA1XkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_SX300.jpg,tt1028532
+Taken,2008,7.7,https://m.media-amazon.com/images/M/MV5BZDA0ODYzZGMtOGI3ZS00YTdjLTk0ZjEtYzA0Zjg3MDM4OTA4XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg,tt0936501
+Gladiator,2000,8.5,https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg,tt0172495
+Cast Away,2000,7.8,https://m.media-amazon.com/images/M/MV5BN2Y5ZTU4YjctMDRmMC00MTg4LWE1M2MtMjk4MzVmOTE4YjkzXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg,tt0162222
+The Pianist,2002,8.5,https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg,tt0253474
+A Separation,2011,8.3,https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg,tt1832382
+Taylor Swift: The Eras Tour,2023,8.0,https://m.media-amazon.com/images/M/MV5BMTU1Y2EzYTQtNDE2Zi00YmY0LTlhOTMtNjA1NzVlZTczMTFlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg,tt28814949
+A Family Affair,1937,6.6,https://m.media-amazon.com/images/M/MV5BMzBiODc0YWUtY2E4Yi00MzYzLTgyNzctMzkzNDRhNDljNzRiXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg,tt0028850
+The Fall Guy,2024,7.3,https://m.media-amazon.com/images/M/MV5BMjA5ZjA3ZjMtMzg2ZC00ZDc4LTk3MTctYTE1ZTUzZDIzMjQyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX300.jpg,tt1684562
+Anyone But You,2023,6.1,https://m.media-amazon.com/images/M/MV5BOTVhZGU2OWQtNDM1Ni00MzM3LTgzYjgtOTEwYzQzOWZjNTIyXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_SX300.jpg,tt26047818
+The Notebook,2004,7.8,https://m.media-amazon.com/images/M/MV5BNzc3Mzg1OGYtZjc3My00Y2NhLTgyOWUtYjRhMmI4OTkwNDg4XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg,tt0332280
+The Count of Monte-Cristo,1975,6.9,https://m.media-amazon.com/images/M/MV5BNmU5YmIyNjAtYTZlMS00NjcwLWIxNjItNmEzMTk4ZTQ5MWMzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_SX300.jpg,tt0072824
+The Idea of You,2024,6.3,https://m.media-amazon.com/images/M/MV5BYWRkZjJiODEtM2IwZi00ZjM1LWEyOTUtOThjMDk3YThjZDUzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg,tt9466114
+Enemy at the Gates,2001,7.5,https://m.media-amazon.com/images/M/MV5BYWFlY2E3ODQtZWNiNi00ZGU4LTkzNWEtZTQ2ZTViMWRhYjIzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg,tt0215750
+Sniper: Ghost Shooter,2016,5.4,https://m.media-amazon.com/images/M/MV5BZGFjOGVjNjctN2ZhZS00MWYxLTk3MGEtZWRjNTgzZmRkZjJlXkEyXkFqcGdeQXVyMjQ1MDE0NzU@._V1_SX300.jpg,tt5090828
+Elephant White,2011,5.0,https://m.media-amazon.com/images/M/MV5BMTEzOTUyNTQyNzBeQTJeQWpwZ15BbWU4MDU3MjI4MDMx._V1_SX300.jpg,tt1578882
+Bad Boys: Ride or Die,2024,7.0,https://m.media-amazon.com/images/M/MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg,tt4919268
+Civil War,2024,7.2,https://m.media-amazon.com/images/M/MV5BYTYyODhlODktYjUzNC00NjUyLWI1MzYtNmI0MTY3YTUxYjY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg,tt17279496
+Barbie,2023,6.8,https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg,tt1517268
+Damsel,2024,6.1,https://m.media-amazon.com/images/M/MV5BODRiMTA4NGMtOTQzZC00OWFjLWFmODctMjY2ZTcwYjI5NDMyXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_SX300.jpg,tt13452446
+Arthur the King,2024,7.0,https://m.media-amazon.com/images/M/MV5BNzMzMDNhZWYtZDE4ZC00MTg5LWJiZWEtZjU2OGM2ZjMzM2I1XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_SX300.jpg,tt10720352
+The Power of the Dog,2021,6.8,https://m.media-amazon.com/images/M/MV5BZGRhYjE2NWUtN2FkNy00NGI3LTkxYWMtMDk4Yjg5ZjI3MWI2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg,tt10293406
